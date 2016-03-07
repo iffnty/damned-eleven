@@ -2,7 +2,7 @@
 Game playing simulation
 
 # Gameplay
-*"Damned Eleven"* is a card game played by two players (Stranger and Innkeeper) with an 11-card deck composed of number cards 1 through 10 and a Joker. Each player receives 5 cards, 1 at a time, and the last card forms a talon.
+*"Damned Eleven"* is a card game played by two players (Stranger (Player) and Innkeeper (House)) with an 11-card deck composed of number cards 1 through 10 and a Joker. Each player receives 5 cards, 1 at a time, and the last card forms a talon.
 At the start of each turn each player picks one card and lays it on the table face-down. Then the cards are revealed and compared.
 
 # Earning points
