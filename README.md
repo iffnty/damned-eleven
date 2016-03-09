@@ -1,5 +1,6 @@
 # Damned Eleven
 ![Build status](https://api.travis-ci.org/iffnty/damned-eleven.svg)
+
 Game playing simulation
 
 # Gameplay
